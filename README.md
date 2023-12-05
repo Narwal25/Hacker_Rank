@@ -41,5 +41,7 @@ This repository contains solutions to various problems posted on the HackerRank 
 - [Sequence_Equation.py](Problem_Solving/Sequence_Equation.py)
 - [Sherlock_and_Squares.py](Problem_Solving/Sherlock_and_Squares.py)
 - [Taum_and_Bday.py](Problem_Solving/Taum_and_Bday.py)
-
+- [The_Hurdle_Race.py](Problem_Solving/The_Hurdle_Race.py)
+- [Utopian_Tree.py](Problem_Solving/Utopian_Tree.py)
+- [Viral_Advertising.py](Problem_Solving/Viral_Advertising.py)
 Feel free to explore and use the solutions as a reference for your HackerRank challenges!
